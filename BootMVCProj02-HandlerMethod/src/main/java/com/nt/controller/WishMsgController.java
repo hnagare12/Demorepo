@@ -33,10 +33,4 @@ public class WishMsgController {
 		//return MAV
 		return "show_result";
 	}
-	
-
-	
-	
-	
-	
-}
+	}
